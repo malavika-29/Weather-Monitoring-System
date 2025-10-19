@@ -96,3 +96,8 @@ You can install them using **Library Manager → Search → Install**.
 ## 📷 Diagram
  ![weather_crcut](https://github.com/user-attachments/assets/9e7ed743-3848-44fb-af86-5cd6a80be719)
 
+
+
+
+## 📽️ Working Video
+https://github.com/user-attachments/assets/ab4d615d-0acc-4f46-ab65-5ce9ae2c154d
