@@ -101,3 +101,6 @@ You can install them using **Library Manager → Search → Install**.
 
 ## 📽️ Working Video
 https://github.com/user-attachments/assets/ab4d615d-0acc-4f46-ab65-5ce9ae2c154d
+
+## 📄Report
+[Weather_Monitoring_System_Report - Copy.pdf](https://github.com/user-attachments/files/22996289/Weather_Monitoring_System_Report.-.Copy.pdf)
