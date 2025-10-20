@@ -1,4 +1,3 @@
-
 #define BLYNK_TEMPLATE_ID "TMPL3g9pQasBB"
 #define BLYNK_TEMPLATE_NAME "Weather Monitoring System"
 #define BLYNK_AUTH_TOKEN "VpB_R4zbnzt7ZdxoT70s7Lj8WzUc1jRq"
